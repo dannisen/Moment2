@@ -1,6 +1,6 @@
 # Moment 2 Node JS & Gulp
 
-### **Vad är automatiserings-processens syfte?*
+### **Vad är automatiserings-processens syfte?**
 Gulp som vi använt i denna uppgift är ett hjälpmedel för att förenkla arbetsprocessen för webbfiler. 
 Med exempelvis Gulp (finns även andra) kan man enkelt kopiera, sammanslå och minifiera filer i ett projekt. 
 Man sparar tid genom att många processer kan göras automatiska samt att man kan göra koden lite svårare att läsa, alltså inte lika lätt för andra att kopiera. 
