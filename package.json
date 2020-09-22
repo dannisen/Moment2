@@ -9,13 +9,12 @@
   "author": "Daniela Forsberg",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-uglify-es": "^2.0.0"
   },
-  "dependencies": {
-    "browser-sync": "^2.26.12"
-  }
+  "dependencies": {}
 }
